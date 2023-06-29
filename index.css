@@ -226,6 +226,42 @@ a:active {
 @media screen and (max-width: 600px) {
     
 }
+.chat-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 300px;
+    z-index: 9999;
+  }
+  
+  .chat-header {
+    background-color: #9e380d;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .chat-toggle {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  .chat-content {
+    display: none;
+    background-color: white;
+    padding: 10px;
+    border: 1px solid #ccc;
+    overflow-y: scroll;
+    max-height: 300px;
+  }
+  
+  .chat-container.open .chat-content {
+    display: block;
+  }
 /*REFERENCES
 1. Gunjan, Vinit Kumar, Amit Kumar, and Sharda Avdhanam. “A survey of cyber crime in India.” In 2013 15th International Conference on Advanced Computing Technologies (ICACT), pp. 1-6. IEEE, 2013.
 
