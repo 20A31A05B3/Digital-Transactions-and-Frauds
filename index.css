@@ -255,7 +255,7 @@ a:active {
     background-color: white;
     padding: 10px;
     border: 1px solid #ccc;
-    overflow-y: scroll;
+    /*overflow-y: scroll;*/
     max-height: 300px;
   }
   
