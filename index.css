@@ -229,7 +229,7 @@ a:active {
 .chat-container {
     position: fixed;
     bottom: 250px;
-    right: 250px;
+    right: 20px;
     width: 300px;
   }
   
