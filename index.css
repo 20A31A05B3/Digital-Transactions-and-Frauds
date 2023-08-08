@@ -255,8 +255,8 @@ a:active {
     background-color: white;
     padding: 10px;
     border: 1px solid #ccc;
-    /*overflow-y: scroll;*/
-    max-height: 200px;
+    overflow-y: scroll;
+    max-height: 300px;
   }
   
   .chat-container.open .chat-content {
