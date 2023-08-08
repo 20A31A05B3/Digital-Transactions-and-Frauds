@@ -1,6 +1,6 @@
 # FRT- Future Ready Talent Project
-It represents the different digital transactions and the information to help people identify the frauds and the necessary precautions to be taken to avoid these frauds and maintain a normal lifestyle using these digital transaction methods.
 # Digital-Transactions-and-Frauds
+It represents the different digital transactions and the information to help people identify the frauds and the necessary precautions to be taken to avoid these frauds and maintain a normal lifestyle using these digital transaction methods.
 ## Our website link: https://agreeable-sky-019628910.3.azurestaticapps.net
 ## Our Project Demo Video link: https://youtu.be/4q8ousIY3KE
 ## Azure Technology :
