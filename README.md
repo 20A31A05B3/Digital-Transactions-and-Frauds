@@ -6,11 +6,6 @@ It represents the different digital transactions and the information to help peo
 ## Azure Technology :
 Azure Bot Services,
 Static Web Apps
-
-## Features and Functionality :
-- Interaction with AI Bot.
-- User can know about the information regarding animal husbandry.
-- Has many graphical and innovative effects.
 # Home page
 ![Screenshot 2023-07-07 224155](https://github.com/20A31A05B3/Digital-Transactions-and-Frauds/assets/109897928/0f97074f-97f7-4f5f-8b37-9d56f8c3baa2)
 # Digital Transactions
