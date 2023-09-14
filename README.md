@@ -5,7 +5,8 @@ It represents the different digital transactions and the information to help peo
 ## Our Project link: https://20a31a05b3.github.io/Digital-Transactions-and-Frauds/
 ## Our Project Demo Video link: https://youtu.be/4q8ousIY3KE
 ## Used Azure Technologies
-Azure Bot Services,Static Web Apps
+1.Azure Bot Services
+2.Static Web Apps
 # Screenshots:
 ## Azure Technology 1: Static Web App
 ![image](https://github.com/20A31A05B3/Digital-Transactions-and-Frauds/assets/109897928/15b6b142-94a6-4b10-b634-88e5725f37b8)
