@@ -3,7 +3,7 @@
 It represents the different digital transactions and the information to help people identify the frauds and the necessary precautions to be taken to avoid these frauds and maintain a normal lifestyle using these digital transaction methods.
 ## Our Project link: https://agreeable-sky-019628910.3.azurestaticapps.net
 ## Our Project link: https://20a31a05b3.github.io/Digital-Transactions-and-Frauds/
-## Our Project Demo Video link: https://youtu.be/4q8ousIY3KE
+## Our Project Demo Video link: https://youtu.be/rB96fQcVfgU
 ## Used Azure Technologies
 ### 1.Azure Bot Services
 ### 2.Static Web Apps
